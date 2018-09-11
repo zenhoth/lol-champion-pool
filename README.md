@@ -1,4 +1,4 @@
-####LoL Champion Pool
+#### LoL Champion Pool
 This tool uses the champion.gg API to calculate assorted information surrounding your champion pool:
 * The best all-round pick that has the best overall winrate against enemy picks, weighted by pick rate (bestAllRounder)
 * The best counterpick from your champion pool for each possible enemy champion (bestCounterpicks)
