@@ -6,7 +6,7 @@ import Data.Aeson
 import Data.Aeson.Types (parseEither)
 import Data.ByteString.Lazy.Char8 (pack)
 import Data.Function (on)
-import Data.Map.Strict hiding (filter, map, null, (\\))
+import Data.Map.Strict hiding (filter, map, null, (\\), take)
 import qualified Data.Map.Strict as M
 import Data.Maybe (catMaybes)
 import Data.List hiding (lookup)
